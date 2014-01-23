@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vibrate</string>
+	<string name="vibrate1">vibrate 1 time</string>
+	<string name="vibrate3">vibrate 3 times</string>
+</resources>
